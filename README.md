@@ -1,6 +1,10 @@
 # README
 
-Creator: Kai Han
+**Gaucho-Event-System**
+
+This is a team project
+
+Members: Kai Han, Rutvik Jha, Sahil Naik, Qiming Wu and Kedai Zuo.
 
 Date: 12/14/2023
 
